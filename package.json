@@ -1,0 +1,26 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "teste de REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarlinhosss/node-api.git"
+  },
+  "keywords": [
+    "node",
+    "aprendendo"
+  ],
+  "author": "Carlos Alexandre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scarlinhosss/node-api/issues"
+  },
+  "homepage": "https://github.com/scarlinhosss/node-api#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
